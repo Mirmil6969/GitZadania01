@@ -1,8 +1,8 @@
 public class Car {
-    String marka;
 
-    public Car(String marka){
-        this.marka = marka;
+    String Ilosc_kol;
+    public Car(Ilosc_kol){
+        this.Ilosc_kol = Ilosc_kol;
     }
 
 }
